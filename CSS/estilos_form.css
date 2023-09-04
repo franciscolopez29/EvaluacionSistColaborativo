@@ -1,0 +1,17 @@
+h1{
+    width: 300px; 
+    margin: 0 auto;
+    padding: 20px;
+    background-color: lightblue;
+    border-radius: 10px; 
+}
+
+.formulario{
+    width: 300px; 
+    margin: auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+}
+
+

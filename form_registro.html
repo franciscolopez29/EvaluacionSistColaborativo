@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/estilos_form.css"> 
+    <title>Document</title>
+</head>
+<body>
+    <h1>Formulario</h1>
+    
+    <div class="formulario">
+    <form action="registro.php" method="post" enctype="multipart/form-data">
+        <label>Usuario:</label>
+        <input type="text" name="usuario">
+        <label>Contraseña:</label>
+        <input type="text" name="contrasenia">
+        <input type="file" name="imagen" accept="image/*">
+        <input type="submit" name="enviar" value="enviar">
+    </form>
+    </div>
+
+
+</body>
+</html>
