@@ -1,0 +1,7 @@
+Lider: Francisco Lopez 
+Colaborador: Joaquin Sosa
+ 
+creacion del proyecto y compartir Francisco Lopez
+base de datos y conexion Francisco Lopez
+diseño del formulario y registro Joaquin Sosa
+estilos.css encargado Joaquin Sosa
